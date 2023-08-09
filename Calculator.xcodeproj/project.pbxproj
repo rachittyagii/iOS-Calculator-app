@@ -16,6 +16,8 @@
 		D8117D362A82C0FA00D600AE /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8117D352A82C0FA00D600AE /* CalculatorTests.swift */; };
 		D8117D402A82C0FA00D600AE /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8117D3F2A82C0FA00D600AE /* CalculatorUITests.swift */; };
 		D8117D422A82C0FA00D600AE /* CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8117D412A82C0FA00D600AE /* CalculatorUITestsLaunchTests.swift */; };
+		D8AA25ED2A836E94002A7C2D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8117D1E2A82C0F900D600AE /* AppDelegate.swift */; };
+		D8AA25EE2A836E94002A7C2D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8117D1E2A82C0F900D600AE /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -268,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8AA25EE2A836E94002A7C2D /* AppDelegate.swift in Sources */,
 				D8117D362A82C0FA00D600AE /* CalculatorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -276,6 +279,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8AA25ED2A836E94002A7C2D /* AppDelegate.swift in Sources */,
 				D8117D422A82C0FA00D600AE /* CalculatorUITestsLaunchTests.swift in Sources */,
 				D8117D402A82C0FA00D600AE /* CalculatorUITests.swift in Sources */,
 			);
